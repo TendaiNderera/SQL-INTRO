@@ -1,0 +1,5 @@
+SELECT
+	COUNTRY,
+	PROVINCE,
+	CITY
+	FROM [dbo].[Property24]
